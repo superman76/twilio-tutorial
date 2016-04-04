@@ -19,6 +19,9 @@
   "keywords": [],
   "description": "",
   "dependencies": {
+    "body-parser": "^1.15.0",
+    "chokidar": "^1.4.3",
+    "express": "^4.13.4",
     "twilio": "^2.9.1"
   },
   "devDependencies": {
