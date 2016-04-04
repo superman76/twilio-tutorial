@@ -17,5 +17,8 @@
   },
   "homepage": "https://github.com/superman76/twilio-tutorial#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "twilio": "^2.9.1"
+  }
 }
